@@ -61,5 +61,3 @@ crm_sql_python_project/
 - Add **lead scoring** or **upsell propensity** models.
 - Build a simple **Streamlit** app to browse customer-level predictions.
 
-## Notes
-Data here is **synthetic** so you can publish it freely. Replace `data/raw/*.csv` with real CRM exports when you have them.
